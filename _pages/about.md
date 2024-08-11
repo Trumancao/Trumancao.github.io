@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to Wei Cao(曹炜)'s Homepage"
 author_profile: true
 redirect_from: 
   - /about/
