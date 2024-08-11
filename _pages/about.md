@@ -11,4 +11,4 @@ I was a Postdoctoral Fellow/Assistant Research Fellow at [Pearl, Sun Yat-sen Uni
 
 You can find my CV here: [Wei Cao's Curriculum Vitae](https://github.com/Trumancao/Trumancao.github.io/blob/master/assets/CAOWEI%20CV-20240103.pdf) (updated on 03 Jan. 2024)
 
-[Email](caomust@gmail.com)/[Github](https://github.com/Trumancao)
+[Email](caomust@gmail.com)/[Github](https://github.com/Trumancao)/[Researchgate](https://www.researchgate.net/profile/Wei-Cao-13?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
